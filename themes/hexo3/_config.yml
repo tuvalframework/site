@@ -1,0 +1,119 @@
+menu:
+  TUTORIALS: /docs/graphics/en
+  TUTORIALS(TR): /docs/
+
+  # Demos: /docs/sandbox
+  # API docs: /api/Tuvalframework.html
+  # React: /docs/react
+  # Vue: /docs/vue
+  # Support: /docs/support.html
+
+  # Consulting: https://lavrton.com
+
+doc_sidebar:
+  Tuval Graphic Interface:
+    TGI'yı Anlamak: graphics/01.01.UnderstandingTuval.html
+    TGI'yı Keşfetmek: graphics/01.02.ExploringTuvalFunctionality.html
+    Canvas vs TGI: graphics/01.03.TGFromCanvasPerspective.html
+    Tuval Graphics Nesneleri: graphics/01.04.ClassesInTuvalGraphics.html
+  İlk TGI Uygulaması:
+    TGI ile başlarken: graphics/02.00.YourFirstTGApplication.html
+    Çizim Yüzeyleri: graphics/02.01.DrawingSurfaces.html
+    Koordinat Sistemi: graphics/02.02.CoordinateSystem.html
+    Öğretici - İlk TGI Uygulamanız: graphics/02.03.YourFirstTGApplication.html
+    Bazı Temel Tuval Nesneleri: graphics/02.04.BasicTGObjects.html
+  Graphics Nesnesi:
+    Giriş:  graphics/03.00.TheGraphicsClass.html
+    Graphics Nesne Özellikleri: graphics/03.01.GraphicsClassProperties.html
+    Graphics Nesne Yordamları: graphics/03.02.GraphicsClassMethods.html
+  Çizim Yordamları:
+    -drawLine: graphics/03.03.DrawingLines.html
+    -drawRectangle: graphics/03.04.DrawingRectangles.html
+    -drawEllipse: graphics/03.05.DrawingEllipses.html
+    -drawString: graphics/03.06.drawString.html
+    -drawArc: graphics/03.07.drawArc.html
+    -drawCurve: graphics/03.08.drawCurve.html
+    -drawClosedCurve: graphics/03.09.drawClosedCurve.html
+    -drawBezier: graphics/03.10.drawBezier.html
+    -drawPolygon: graphics/03.11.drawPolygon.html
+    -drawPath: graphics/03.12.drawPath.html
+    -drawPie: graphics/03.13.drawPie.html
+    -drawImage: graphics/03.14.drawImage.html
+    -drawPoint: graphics/03.23.drawPoint.html
+  Doldurma Yordamları:
+    -fillClosedCurve: graphics/03.15.fillClosedCurve.html
+    -fillEllipse: graphics/03.16.fillEllipse.html
+    -fillPath: graphics/03.17.fillPath.html
+    -fillPie: graphics/03.18.fillPie.html
+    -fillPolygon: graphics/03.19.fillPolygon.html
+    -fillRectangle: graphics/03.20.fillRectangle.html
+  Diğer Yordamlar:
+    -clear: graphics/03.21.clear.html
+    -measureString: graphics/03.22.measureString.html
+    -FromImage: graphics/03.24.FromImage.html
+    Çizgi Grafik Uygulaması: graphics/03.09.lineGraph.html
+  Brush Objects:
+    Fırça Nedir: graphics/04.01.whatIsBrushInJGI.html
+    Brush Sınıfı: graphics/04.02.brushClass.html
+    Düz Fırçalar: graphics/04.03.solidBrushes.html
+    Örüntü Fırçalar: graphics/04.04.hatchBrushes.html
+    Doku Fırçaları: graphics/04.05.textureBrushes.html
+    Renk Geçiş Fırçaları: graphics/04.06.gradientBrushes.html
+    Doğrusal Renk Geçiş Fırçası: graphics/04.07.linearGradientBrush.html
+
+doc_sidebar_en:
+  Javascript Graphic Interface:
+    What is TGI: graphics/en/01.01.UnderstandingTuval.html
+    Explore TGI: graphics/en/01.02.ExploringTuvalFunctionality.html
+    Canvas vs TGI: graphics/en/01.03.TGFromCanvasPerspective.html
+    TGI Objects: graphics/en/01.04.ClassesInTuvalGraphics.html
+  First TGI Application:
+    When starting with TGI: graphics/en/02.00.YourFirstTGApplication.html
+    Drawing Surfaces: graphics/en/02.01.DrawingSurfaces.html
+    Koordinat Sistemi: graphics/en/02.02.CoordinateSystem.html
+    First TGI Application: graphics/en/02.03.YourFirstTGApplication.html
+    Basic TGI Objects: graphics/en/02.04.BasicTGObjects.html
+  Graphics Object:
+    Introduction:  graphics/en/03.00.TheGraphicsClass.html
+    Graphics Properties: graphics/en/03.01.GraphicsClassProperties.html
+    Graphics Methods: graphics/en/03.02.GraphicsClassMethods.html
+  Drawing Methods:
+    -drawLine: graphics/en/03.03.DrawingLines.html
+    -drawRectangle: graphics/en/03.04.DrawingRectangles.html
+    -drawEllipse: graphics/en/03.05.DrawingEllipses.html
+    -drawString: graphics/en/03.06.drawString.html
+    -drawArc: graphics/en/03.07.drawArc.html
+    -drawCurve: graphics/en/03.08.drawCurve.html
+    -drawClosedCurve: graphics/en/03.09.drawClosedCurve.html
+    -drawBezier: graphics/en/03.10.drawBezier.html
+    -drawPolygon: graphics/en/03.11.drawPolygon.html
+    -drawPath: graphics/en/03.12.drawPath.html
+    -drawPie: graphics/en/03.13.drawPie.html
+    -drawImage: graphics/en/03.14.drawImage.html
+    -drawPoint: graphics/en/03.23.drawPoint.html
+  Fiiling Methods:
+    -fillClosedCurve: graphics/en/03.15.fillClosedCurve.html
+    -fillEllipse: graphics/en/03.16.fillEllipse.html
+    -fillPath: graphics/en/03.17.fillPath.html
+    -fillPie: graphics/en/03.18.fillPie.html
+    -fillPolygon: graphics/en/03.19.fillPolygon.html
+    -fillRectangle: graphics/en/03.20.fillRectangle.html
+  Other Methods:
+    -clear: graphics/en/03.21.clear.html
+    -measureString: graphics/en/03.22.measureString.html
+    -FromImage: graphics/en/03.24.FromImage.html
+  Brush Objects:
+    What is Brush in TGI: graphics/en/04.01.whatIsBrushInJGI.html
+    Brush Class: graphics/en/04.02.brushClass.html
+    Solid Brushes: graphics/en/04.03.solidBrushes.html
+    Hatch Brushes: graphics/en/04.04.hatchBrushes.html
+    Texture Brushes: graphics/en/04.05.textureBrushes.html
+    Gradient Brushes: graphics/en/04.06.gradientBrushes.html
+    Linear Gradient Brush: graphics/en/04.07.linearGradientBrush.html
+
+
+google_analytics: UA-133715520-1
+fb_admins:
+swiftype_key: rRaQRFqx1DcWDDysdpg_
+twitter: tuvalframework
+github: tuvalframework

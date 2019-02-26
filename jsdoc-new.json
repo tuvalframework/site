@@ -1,0 +1,19 @@
+{
+  "name": "Tuvalframework",
+  "tags": {
+    "allowUnknownTags": true
+  },
+  "plugins": ["plugins/markdown"],
+  "opts": {
+    "destination": "./public/api",
+    "template": "./jsdoc-template"
+  },
+  "templates": {
+    "referenceTitle": "Tuvalframework API Documentation",
+    "disableSort": false
+  },
+  "markdown": {
+    "parser": "gfm",
+    "hardwrap": true
+  }
+}

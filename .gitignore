@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+npm-debug.log
+node_modules
+public
+.deploy
+db.json
+debug.log
+tmp
+*.code-workspace
