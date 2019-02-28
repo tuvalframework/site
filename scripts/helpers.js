@@ -41,7 +41,7 @@ hexo.extend.helper.register('item_flags', function(data) {
 });
 
 hexo.extend.helper.register('page_nav', function() {
-  var sidebar = this.theme.doc_sidebar,
+   var sidebar = this.page.language === 'en' ? this.theme.doc_sidebar_en : this.theme.doc_sidebar,
     path = this.path.replace(/^docs\//, ''),
     // path = this.path,
     list = {};
@@ -58,7 +58,7 @@ hexo.extend.helper.register('page_nav', function() {
 
   if (index > 0) {
     result.push(
-      '<a href="/docs/' +
+      '<a href="/docs/',
         keys[index - 1] +
         '" id="page-footer-prev" title="' +
         list[keys[index - 1]] +
@@ -68,7 +68,7 @@ hexo.extend.helper.register('page_nav', function() {
 
   if (index < keys.length - 1) {
     result.push(
-      '<a href="/docs/' +
+       '<a href="/docs/',
         keys[index + 1] +
         '" id="page-footer-next" title="' +
         list[keys[index + 1]] +

@@ -63,7 +63,7 @@ doc_sidebar:
     Versiyon Geçmişi: graphics/versionHistory.html
 
 doc_sidebar_en:
-  Javascript Graphic Interface:
+  Tuval Graphic Interface:
     What is TGI: graphics/en/01.01.UnderstandingTuval.html
     Explore TGI: graphics/en/01.02.ExploringTuvalFunctionality.html
     Canvas vs TGI: graphics/en/01.03.TGFromCanvasPerspective.html
