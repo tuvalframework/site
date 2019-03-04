@@ -4,6 +4,7 @@ language: tr
 ### 0.0.48
 - *[RadialGradientBrush](04.08.radialGradientBrush.html) sınıfı eklendi.*
 - *[LinearGradientBrush](04.07.linearGradientBrush.html) sınıfına gamma correction (gama doğrulaması) özelliği eklendi.*
+
 ### 0.0.47
 - *[LinearGradientBrush](04.07.linearGradientBrush.html) sınıfı eklendi.*
 
