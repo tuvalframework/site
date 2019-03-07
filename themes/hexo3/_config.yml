@@ -60,6 +60,7 @@ doc_sidebar:
     Doku Fırçaları: graphics/04.05.textureBrushes.html
     Renk Geçiş Fırçaları: graphics/04.06.gradientBrushes.html
     Doğrusal Renk Geçiş Fırçası: graphics/04.07.linearGradientBrush.html
+    Radyal Renk Geçiş Fırçası: graphics/04.08.radialGradientBrush.html
     Versiyon Geçmişi: graphics/versionHistory.html
 
 doc_sidebar_en:
