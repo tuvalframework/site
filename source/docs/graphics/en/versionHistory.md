@@ -1,6 +1,11 @@
 title: Version History
 language: en
 ---
+
+### 0.0.48
+- Added *[RadialGradientBrush](04.08.radialGradientBrush.html) class.*
+- Added GammaCorrection property to *[LinearGradientBrush](04.07.linearGradientBrush.html) class.*
+
 ### 0.0.47
 - Added *[LinearGradientBrush](04.07.linearGradientBrush.html) class.*
 
