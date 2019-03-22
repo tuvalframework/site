@@ -52,7 +52,7 @@ doc_sidebar:
     -measureString: graphics/03.22.measureString.html
     -FromImage: graphics/03.24.FromImage.html
     Çizgi Grafik Uygulaması: graphics/03.09.lineGraph.html
-  Brush Objects:
+  Fırçaların Kullanımı:
     Fırça Nedir: graphics/04.01.whatIsBrushInJGI.html
     Brush Sınıfı: graphics/04.02.brushClass.html
     Düz Fırçalar: graphics/04.03.solidBrushes.html
@@ -62,6 +62,12 @@ doc_sidebar:
     Doğrusal Renk Geçiş Fırçası: graphics/04.07.linearGradientBrush.html
     Radyal Renk Geçiş Fırçası: graphics/04.08.radialGradientBrush.html
     Versiyon Geçmişi: graphics/versionHistory.html
+  Kalemlerin Kullanımı:
+    TGI'da Kalem Nedir: graphics/05.01.whatIsPenInTGI.html
+    Pen Sınıfının Üyeleri: graphics/05.02.penClassPropsAndMethods.html
+    Gölgeli Çizim: graphics/05.03.penWithShadow.html
+    Hazır Kalem Nesneleri: graphics/05.05.predefinedPenObjects.html
+
 
 doc_sidebar_en:
   Tuval Graphic Interface:
